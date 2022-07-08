@@ -1,0 +1,17 @@
+body {
+    background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(248, 165, 165, 0.3), url(https://i.pinimg.com/originals));
+    background-image: url('./images/bg.jpg');
+    background-repeat: repeat;
+    /* background-repeat: no-repeat; */
+    background-attachment: fixed;
+    background-size: cover;
+    /* background-color: #1A1A1D; */
+    /* background-color: #add8e6; */
+    /* background-image: url('./images/Tulips.jpg'); */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
